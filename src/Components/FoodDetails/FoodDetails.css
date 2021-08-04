@@ -1,0 +1,20 @@
+.single-item {
+  height: 500px;
+}
+.single-image {
+  width: 400px;
+}
+.btn-item {
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 33px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.price {
+  padding-right: 30px;
+}
+.btn-style {
+  border: none;
+  background-color: white;
+}

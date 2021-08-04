@@ -1,0 +1,16 @@
+.img-item {
+  width: 300px;
+  padding-top: 20px;
+}
+.all-item {
+  text-decoration: none;
+  list-style: none;
+  color: black;
+}
+.item-card {
+  max-width: 100%;
+  width: 100%;
+}
+.item-list {
+  text-decoration: none;
+}

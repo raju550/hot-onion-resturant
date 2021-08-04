@@ -1,0 +1,24 @@
+.header-image {
+  background-image: url("https://i.ibb.co/xXMX5v2/rsz-bannerbackground.png");
+  height: 500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.item {
+  text-align: center;
+  padding-top: 150px;
+}
+.item input {
+  border: none;
+  padding: 10px;
+}
+.item button {
+  margin-top: 10px;
+  border: none;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 30px;
+
+  background-color: red;
+  color: white;
+}
